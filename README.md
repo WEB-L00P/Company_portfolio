@@ -23,5 +23,5 @@ Here we had provided you a simple free to use Bootstrap 5 template to use it and
 ![Hero](https://media.discordapp.net/attachments/876153410049683487/987618605581627412/footer.png)
 
 
-[LIVE PREVIEW ]()
+[LIVE PREVIEW ](https://web-l00p.github.io/Company_portfolio/)
 
